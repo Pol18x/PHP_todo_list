@@ -1,6 +1,6 @@
 # Gestión de Tareas (ToDo List) - Prueba Técnica
 
-Aplicación desarrollada como parte de la **Entrevista Técnica para Desarrollador PHP de Be Call Group**.  
+Aplicación desarrollada como parte de la **Entrevista Técnica para Desarrollador PHP de Be Call**.  
 Consiste en un sistema de gestión de tareas con interfaz web, API REST, notificaciones vía Webhook y registro de logs.
 
 ---
@@ -31,8 +31,7 @@ Si es necesario, modifica las credenciales en: `conexion_bd.php`
 
 La aplicación permite realizar el ciclo completo de gestión de tareas (CRUD):
 
-- **Acceso principal:**
-- http://localhost/GESTION_TAREAS/lista_tareas.php
+- **Acceso principal:** http://localhost/GESTION_TAREAS/lista_tareas.php
 - **Crear tareas:**
 Formulario para añadir tareas con:
   - Título  
